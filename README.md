@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KayKloud24</h1>
+<h1 align="center">Hi 👋, I'm Kay Tawiah</h1>
 <h3 align="center">A passionate DevOps Engineer from Ghana</h3>
 
 - 📫 How to reach me **tawiageorge@gmail.com**
