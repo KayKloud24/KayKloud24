@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kay Tawiah</h1>
 <h3 align="center">A passionate DevOps Engineer from Ghana</h3>
 
+<image align="right" alt="coding" width="400" src="![devops](https://github.com/user-attachments/assets/8c49a239-a728-4dd5-8eec-1776ab80f5bb)">
+
 - 📫 How to reach me **tawiageorge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
