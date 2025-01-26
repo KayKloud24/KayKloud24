@@ -3,7 +3,7 @@
 
 <image align="right" alt="devops" width="200" src="https://github.com/user-attachments/assets/8c49a239-a728-4dd5-8eec-1776ab80f5bb">
 
-- 📫 How to reach me **tawiageorge@gmail.com**
+- 📫 How to reach me **tawiahgeorge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
