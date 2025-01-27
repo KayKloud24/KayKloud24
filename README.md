@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kay Tawiah</h1>
+<h1 align="center">Hi 👋, I'm George Tawiah</h1>
 <h3 align="center">A passionate DevOps Engineer from Ghana</h3>
 
 <image align="right" alt="devops" width="200" src="https://github.com/user-attachments/assets/8c49a239-a728-4dd5-8eec-1776ab80f5bb">
